@@ -1,2 +1,4 @@
 console.log('fungsi pertama')
-console.log('fungsi ke dua')
+
+const add = (a,b) => a + b;
+console.log(add(1,2));
