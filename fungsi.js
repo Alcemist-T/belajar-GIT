@@ -4,7 +4,7 @@ console.log(add(1,2));
 const subtract = (a,b) => a-b;
 console.log(subtract(5,2));
 
-const multyplay = (a,b) => a+b;
+const multyplayNumber = (a,b) => a+b;
 console.log(multyplay(2,2));
 
 const devide = (a,b) => a/b;
